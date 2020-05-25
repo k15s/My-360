@@ -1,0 +1,17 @@
+Generating a 5x5 puzzle with values in range [1-4]
+Final result
+3 2 2 2 3 
+1 2 1 3 1 
+1 3 1 4 4 
+3 2 1 3 1 
+1 1 1 3 0 
+
+Solution: Yes
+Solution length: 19
+# of black holes: 1
+# of white holes: 1
+# of forced forward moves: 2
+# of forced backward moves: 4
+Puzzle score: 104
+
+Total time: 55.000171 seconds
